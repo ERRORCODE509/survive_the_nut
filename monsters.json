@@ -55,7 +55,7 @@
     "vision_day": 40,
     "vision_night": 15,
     "regenerates": 2,
-    "harvest": "nut_golem",
+    "harvest": "nut_titan",
     "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "NO_BREATHE", "LOUDMOVES" ]
   },
