@@ -6,6 +6,7 @@
     "is_animal": true,
     "monsters": [
       { "monster": "mon_nut_golem", "freq": 2, "cost_multiplier": 8 }
+      { "monster": "mon_nut_titan", "freq": 1, "cost_multiplier": 12 }
     ]
   }
 ]
