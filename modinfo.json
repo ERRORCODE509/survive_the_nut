@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "survive_the_nut",
+    "name": "survive_the_nut",
+    "authors": [ "ERROR_CODE"],
+    "description": "What we once thought to be our friend could turn out to be our greatest foe yet.",
+    "category": "items",
+    "dependencies": [ "dda", "magiclysm" ]
+  }
+]
