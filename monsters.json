@@ -36,7 +36,7 @@
     "description": "A hulking mass of pine nuts that towers over the treetops. It seems passive for now, but it would be wise not to anger it.",
     "default_faction": "robot",
     "species": [ "TITAN" ],
-    "volume": "2000 L",
+    "volume": "800 L",
     "weight": "1000 kg",
     "hp": 4000,
     "speed": 20,
