@@ -86,7 +86,7 @@
     "vision_night": 30,
     "regenerates": 1,
     "path_settings": { "avoid_traps": true },
-    "harvest": "nut_golem",
+    "harvest": "nut_construct",
     "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "NO_BREATHE", "LOUDMOVES" ]
   }
