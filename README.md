@@ -1,4 +1,4 @@
-# survive_the_nut
+# survive_the_nut v1.1
 ## What we once thought to be our friend could turn out to be our greatest foe yet.
 This mod is the third part of the _nut series of mods. It (currently) adds a pine nut golem that rarely spawns in forests (provided that I did it correctly), and will ruin your day. However, manage to kill it and you can claim its bounty of pine nuts, in addition to a few pinecones and a small mana crystal.
 
