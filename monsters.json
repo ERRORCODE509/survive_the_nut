@@ -43,7 +43,7 @@
     "material": [ "nut" ],
     "symbol": "M",
     "color": "brown",
-    "aggression": 10,
+    "aggression": 0,
     "morale": 100,
     "armor_bash": 20,
     "armor_cut": 25,
