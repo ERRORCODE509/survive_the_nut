@@ -12,9 +12,9 @@
     "id": "nut_titan",
     "type": "harvest",
     "entries": [
-      { "drop": "pine_nuts", "type": "flesh", "mass_ratio": 0.1 },
+      { "drop": "pine_nuts", "type": "flesh", "mass_ratio": 0.05 },
       { "drop": "small_mana_crystal", "scale_num": [ 1, 1 ], "max": 5, "type": "offal" },
-      { "drop": "pinecone", "type": "bone", "mass_ratio": 0.025 }
+      { "drop": "pinecone", "type": "bone", "mass_ratio": 0.005 }
     ]
   },
   {
