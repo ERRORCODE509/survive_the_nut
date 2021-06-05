@@ -6,7 +6,7 @@ A pine nut golem that rarely spawns in forests (provided that I did it correctly
 
 The pine nut titan, a massive creature that is passive until harmed. It very rarely spawns in forests, and it would be best not to attack it. It has extremely high health, armor, and attack, in addition to having regeneration. Slay the beast, however, and you will be able to claim its vast quatities of pine nuts.
 
-A pine nut construct, a mass of pine nuts that is hostile on sight. Spawns in forests more frequently than the pine nut golem, but is still a bit rare. Much easier to kill than the previous to creatures, as its stats are only a bit better than a feral human. As a result, gives much less pine nuts when butchered due to its reduced size and mass.
+A pine nut construct, a mass of pine nuts that is hostile on sight. Spawns in forests more frequently than the pine nut golem, but is still a bit rare. Much easier to kill than the previous to creatures, as its stats are only a bit better than a feral human, though it is much faster. As a result, gives much less pine nuts when butchered due to its reduced size and mass.
 
 Check the wiki page of the Gibhub for additional info on each creature.
 
