@@ -7,7 +7,7 @@
     "default_faction": "robot",
     "species": [ "GOLEM" ],
     "volume": "100 L",
-    "weight": "50 kg",
+    "weight": "60 kg",
     "hp": 400,
     "speed": 180,
     "material": [ "nut" ],
