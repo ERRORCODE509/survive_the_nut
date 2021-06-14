@@ -4,6 +4,6 @@
     "name": "pine_nut_abomination",
     "base_faction": "plant",
     "friendly": "triffid",
-    "hate": "fungus",
+    "hate": "fungus"
   }
 ]
