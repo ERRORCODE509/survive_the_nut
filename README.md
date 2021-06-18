@@ -8,6 +8,6 @@ The pine nut titan, a massive creature that is passive until harmed. It very rar
 
 A pine nut construct, a mass of pine nuts that is hostile on sight. Spawns in forests more frequently than the pine nut golem, but is still a bit rare. Much easier to kill than the previous to creatures, as its stats are only a bit better than a feral human, though it is much faster. As a result, gives much less pine nuts when butchered due to its reduced size and mass.
 
-Check the wiki page of the Gibhub for additional info on each creature.
+Check the wiki page of the GitHub for additional info on each creature.
 
 More pine nut abominations are currently in the works.
