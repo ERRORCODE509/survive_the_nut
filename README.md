@@ -1,4 +1,4 @@
-# survive_the_nut v1.2
+# survive_the_nut v1.3
 ## What we once thought to be our friend could turn out to be our greatest foe yet.
 This mod is the third part of the _nut series of mods. Here are a few of the creatures added by this mod:
 
