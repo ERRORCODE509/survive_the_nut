@@ -26,8 +26,9 @@
     "vision_night": 30,
     "regenerates": 4,
     "harvest": "nut_golem",
+    "biosignature": { "biosig_item": "pine_nuts", "biosig_timer": 6 },
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "HEARS", "NO_BREATHE", "LOUDMOVES" ]
+    "flags": [ "SEES", "HEARS", "NO_BREATHE", "LOUDMOVES", "BASHES" ]
   },
   {
     "id": "mon_nut_titan",
@@ -56,8 +57,9 @@
     "vision_night": 15,
     "regenerates": 2,
     "harvest": "nut_titan",
+    "biosignature": { "biosig_item": "pine_nuts", "biosig_timer": 6 },
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "HEARS", "NO_BREATHE", "LOUDMOVES" ]
+    "flags": [ "SEES", "HEARS", "NO_BREATHE", "LOUDMOVES", "BASHES" ]
   },
   {
     "id": "mon_nut_construct",
@@ -87,8 +89,9 @@
     "regenerates": 1,
     "path_settings": { "avoid_traps": true },
     "harvest": "nut_construct",
+    "biosignature": { "biosig_item": "pine_nuts", "biosig_timer": 6 },
     "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "HEARS", "NO_BREATHE" ]
+    "flags": [ "SEES", "HEARS", "NO_BREATHE", "BASHES", "CAN_OPEN_DOORS" ]
   },
   {
     "id": "mon_nut_shambler",
@@ -118,6 +121,7 @@
     "regenerates": 1,
     "path_settings": { "avoid_traps": true },
     "harvest": "nut_construct",
+    "biosignature": { "biosig_item": "pine_nuts", "biosig_timer": 6 },
     "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "NO_BREATHE" ]
   }
