@@ -120,7 +120,7 @@
     "vision_night": 10,
     "regenerates": 1,
     "path_settings": { "avoid_traps": true },
-    "harvest": "nut_construct",
+    "harvest": "nut_shambler",
     "biosignature": { "biosig_item": "pine_nuts", "biosig_timer": 6 },
     "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "NO_BREATHE" ]
