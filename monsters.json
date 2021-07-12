@@ -27,8 +27,9 @@
     "regenerates": 4,
     "harvest": "nut_golem",
     "biosignature": { "biosig_item": "pine_nuts", "biosig_timer": 6 },
-    "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "HEARS", "NO_BREATHE", "LOUDMOVES", "BASHES" ]
+    "corpse_type": "NORMAL",
+    "message": "The %s collapses into a pile!",
+    "flags": [ "SEES", "HEARS", "NO_BREATHE", "LOUDMOVES", "BASHES", "FLAMMABLE", "REVIVES" ]
   },
   {
     "id": "mon_nut_titan",
@@ -58,8 +59,9 @@
     "regenerates": 2,
     "harvest": "nut_titan",
     "biosignature": { "biosig_item": "pine_nuts", "biosig_timer": 6 },
-    "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "HEARS", "NO_BREATHE", "LOUDMOVES", "BASHES" ]
+    "corpse_type": "NORMAL",
+    "message": "The %s is slain!",
+    "flags": [ "SEES", "HEARS", "NO_BREATHE", "LOUDMOVES", "BASHES", "FLAMMABLE", "REVIVES" ]
   },
   {
     "id": "mon_nut_construct",
@@ -90,8 +92,9 @@
     "path_settings": { "avoid_traps": true },
     "harvest": "nut_construct",
     "biosignature": { "biosig_item": "pine_nuts", "biosig_timer": 6 },
-    "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "HEARS", "NO_BREATHE", "BASHES", "CAN_OPEN_DOORS" ]
+    "corpse_type": "NORMAL",
+    "message": "The %s collapses into a pile!",
+    "flags": [ "SEES", "HEARS", "NO_BREATHE", "BASHES", "CAN_OPEN_DOORS", "FLAMMABLE", "REVIVES" ]
   },
   {
     "id": "mon_nut_shambler",
@@ -122,7 +125,8 @@
     "path_settings": { "avoid_traps": true },
     "harvest": "nut_shambler",
     "biosignature": { "biosig_item": "pine_nuts", "biosig_timer": 6 },
-    "death_function": [ "NORMAL" ],
-    "flags": [ "SEES", "HEARS", "NO_BREATHE" ]
+    "corpse_type": "NORMAL",
+    "message": "The %s collapses into a pile!",
+    "flags": [ "SEES", "HEARS", "NO_BREATHE", "FLAMMABLE", "REVIVES" ]
   }
 ]
